@@ -100,6 +100,6 @@ Copy code
 
 git clone https://github.com/KobbyYawson/FestMan-Superstore-Analysis.git
 
-Open the Power BI file (FestMan Superstore.pbix) to explore the interactive dashboard.
+Open the Power BI file (FestMan Superstore dashboard.pbix) to explore the interactive dashboard.
 
 Use the filters and slicers in the dashboard to analyze data by country, product category, segment, and time period.
